@@ -11,4 +11,7 @@ int choice;
     int count = 0;
     bool isTrue = true;
 
+cout<<" * * * WELCOME TO MMERU ATM MACHINE * * * "<<endl<<endl;
+
+    do{
 
