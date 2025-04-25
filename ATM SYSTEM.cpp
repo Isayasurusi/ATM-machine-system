@@ -14,4 +14,11 @@ int choice;
 cout<<" * * * WELCOME TO MMERU ATM MACHINE * * * "<<endl<<endl;
 
     do{
+cout<<"Enter your Pin to Login: ";
+        cin>>p;
+
+        cout<<endl;
+
+        if(p == pin){
+                do{
 
